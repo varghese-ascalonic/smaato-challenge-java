@@ -1,4 +1,4 @@
-# smaato-challenge-java
+# Logger
 
 The web application is developed using Spring boot and is built using Maven. The package `com.challenge` encloses the `Main` class which performs all
 the functions owning to the size of the application. `Main` is also a `Rest Controller` since we are making an HTTP endpoint and no User interface is involved.
