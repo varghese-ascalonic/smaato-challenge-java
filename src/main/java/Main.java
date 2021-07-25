@@ -78,7 +78,6 @@ public class Main {
     con.setRequestMethod("GET");
     con.disconnect();
     int status = con.getResponseCode();
-    Reader streamReader = null;
     return status;
   }
 
